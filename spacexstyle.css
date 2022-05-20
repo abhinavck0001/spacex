@@ -1,0 +1,379 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+
+}
+.text2:hover{
+    color: dimgray;
+}
+
+
+
+.header{
+    background-color: black;
+    width: 100%;
+    display: flex;
+    height: 100px;
+    align-items:center;
+    
+
+
+
+}
+
+.header-btn:hover{
+    cursor: pointer;
+    text-underline-offset: 2px;
+    text-decoration-line: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 2px;
+}
+.header1{
+    width: 100px;
+    height: 40px;
+   
+}
+.header2{
+    width: 60px;
+    height: 40px;
+    position: relative;
+    left: 6px;
+}
+.header3{
+    width: 80px;
+    height: 40px;
+    position: relative;
+    left: 10px;
+}
+.header4{
+    width: 50px;
+    height: 40px;
+    position: relative;
+    left: 15px;
+}
+.header5{
+    width: 80px;
+    height: 40px;
+    position: relative;
+    left: 20px;
+}
+.header6{
+    width: 120px;
+    height: 40px;
+    position: relative;
+    left: 25px;
+}
+.header7{
+    width: 90px;
+    height: 40px;
+    position: relative;
+    left: 30px;
+}
+.header8{
+    width: 200px;
+    height: 40px;
+    position: relative;
+    left: 35px;
+}
+.header9{
+    width: 50px;
+    height: 40px;
+    position: relative;
+    left: -45px;
+}
+.header10{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: -35px;
+    display: flex;
+    top: -11px;
+    
+}
+.header11{
+    width: 200px;
+    height: 40px;
+    background-color:black;
+    position: relative;
+    left: 3px;
+    top: -15px;
+    display: flex;
+    
+    
+    
+}
+.header12{
+    width: 110px;
+    height: 40px;
+    background-color:black;
+    position:relative ;
+    left: 100px;
+    
+    
+}
+.header81{
+    width: 200px;
+    height: 40px;
+    position: relative;
+    left: 10px;
+    
+}
+.header11,.header2,.header3,.header4,.header5,.header6,.header7,.header9,.header10{
+    background-color: black;
+    text-align: center;
+    
+    
+
+   
+}
+.header8{
+    text-align: left;
+    background-color:black;
+}
+.header11,.header2,.header3,.header4,.header5,.header6,.header7,.header9,.header10,.header8{
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+
+}
+.middle{
+    margin: 0%;
+}
+.middle1,.middle2,.middle3,.middle4,.middle5,.middle6{
+    
+    width: 100%;
+    height: 100vh;
+    
+}
+.image1{
+    background-image: url(image/spacex1.webp);
+    background-size: cover;
+
+}
+.image2{
+    background-image: url(image/spacex2.webp);
+    background-size: cover;
+}
+.image3{
+    background-image: url(image/1234\ -\ Copy.png);
+    background-size: cover;
+}
+
+.image4{
+    background-image: url(image/spacex4.webp);
+    background-size: cover;
+}
+
+.image5{
+    background-image: url(image/spacex5.webp);
+    background-size: cover;
+}
+.image6{
+    background-image: url(image/spacex6.webp);
+    background-size:cover;
+}
+
+.watch,.watch2{
+    margin: 0%;
+}
+h3{
+    margin: 0%;
+    font-size: 15px;
+    line-height: 35px;
+    color: white;
+    font-family:D-DIN-Regular, Arial, Verdana, sans-serif;
+    display: flex;
+    position: relative;
+    top: 340px;
+    left: 50px;
+    width: 165px;
+  
+
+}
+h1{
+    margin: 0%;
+    font-size: 35px;
+    line-height: 45px;
+    color: white;
+    font-family:D-DIN-Regular, Arial, Verdana, sans-serif;
+    display: flex;
+    position: relative;
+    top: 327px;
+    left: 50px;
+    width: 375px;
+  
+
+}
+.watch{
+    height: 50px;
+    width: 147px;
+    background-color:transparent;
+    border: 2px solid white;
+    position: relative;
+    top: 324px;
+    left: 50px;
+    
+}
+h2{
+    margin: 0%;
+    font-size: 15px;
+    line-height: 45px;
+    color: white;
+    font-family:D-DIN-Regular, Arial, Verdana, sans-serif;
+    display: flex;
+    position: relative;
+    top: 270px;
+    left: 93px;
+    width: 100px;
+
+}
+h4{
+    margin: 0%;
+    font-size: 15px;
+    line-height: 45px;
+    color: white;
+    font-family:D-DIN-Regular, Arial, Verdana, sans-serif;
+    display: flex;
+    position: relative;
+    top: 307px;
+    left: 73px;
+    width: 100px;
+
+}
+h5{
+    margin: 0%;
+    font-size: 35px;
+    line-height: 45px;
+    color: white;
+    font-family:D-DIN-Regular, Arial, Verdana, sans-serif;
+    display: flex;
+    position: relative;
+    top: 255px;
+    left: 50px;
+    width: 400px;
+
+}
+.watch2{
+    height: 50px;
+    width: 147px;
+    background-color:transparent;
+    border: 2px solid white;
+    position: relative;
+    top: 265px;
+    left: 50px;
+    
+}
+h6{
+    margin: 0%;
+    font-size: 15px;
+    line-height: 45px;
+    color: white;
+    font-family:D-DIN-Regular, Arial, Verdana, sans-serif;
+    display: flex;
+    position: relative;
+    top: 215px;
+    left: 73px;
+    width: 110px;
+}
+h7{
+    margin: 0%;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 45px;
+    color: white;
+    font-family:D-DIN-Regular, Arial, Verdana, sans-serif;
+    display: flex;
+    position: relative;
+    top: 273px;
+    left: 73px;
+    width: 110px;
+}
+
+.footer{
+    width: 100%;
+    height: 80px;
+    background-color:black;
+    position: relative;
+    top: 0px;
+    
+
+}
+.footer0{
+    height: 30px;
+    width: 100%;
+    background-color: black;
+}
+.footer1{
+    width: 280px;
+    height: 60px;
+    background-color: black;
+    float: left;
+    padding-left: 10px;
+}
+.footer2{
+    width: 80px;
+    height: 60px;
+    background-color: black;
+    float: left;
+    
+    padding-left: 10px;
+}
+.footer3{
+    width: 50px;
+    height: 60px;
+    background-color: black;
+    float: left;
+    padding-left: 0px;
+    
+}
+.footer4{
+    width: 55px;
+    height: 60px;
+    background-color: black;
+    float: left;
+    padding-left: 10px ;
+}
+.footer5{
+    width: 65px;
+    height: 60px;
+    background-color: black;
+    float: left;
+    padding-left: 10px ;
+}
+.footer6{
+    width: 40px;
+    height: 60px;
+    background-color:black;
+    float: left;
+    padding-left: 4px ;
+}
+.footer7{
+    width: 50px;
+    height: 60px;
+    background-color:black;
+    float: left;
+    padding-left: 13px ;
+}
+.footer8{
+    width: 86px;
+    height: 60px;
+    background-color: black;
+    float: left;
+    padding-left: 15px ;
+}
+.footer9{
+    width: 559px;
+    height: 60px;
+    background-color: black;
+    float: left;
+    padding-left: 10px ;
+}
+.text2{
+    font-size: x-small;
+    color: aliceblue;
+}
+.text3{
+    font-size: x-small;
+    color: grey;
+}
